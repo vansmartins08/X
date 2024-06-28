@@ -6,7 +6,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╭═══════════════════ ┐
 ┏│──BEM VINDO(A) AO MENU
 ┏│
-┏│Bot: ${NomeDoBot}
+┏│Bot: ${seven}
 ┏│Versão: ${versão}
 ┏│Usuário: 「 @${sender.split("@")[0]} 」
 ┏│Usuario VIP?:「 ${isPremium ? "✅" : "❌"} 」
