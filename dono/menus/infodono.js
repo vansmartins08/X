@@ -9,15 +9,15 @@ return`
 ├───────────────
 │ Solicitou o CMD: @${sender.split("@")[0]}
 ├───────────────┐
-├ NICK DONO: ${NickDono}
-│ Dono: wa.me/${numerodn} 
+├ NICK DONO: ${vans}
+│ Dono: wa.me/${31920012535} 
 ╞───────────────┘
 ╰──────────┐
 ╭──────────┴─┐
 │ INFORMAÇÕES DO BOT
 ├────────────
 │Prefixo: ⩺ ${prefix}
-│Nome: ⩺ ${NomeDoBot} 
+│Nome: ⩺ ${seven} 
 ╰─────────────╯
 `
 }
